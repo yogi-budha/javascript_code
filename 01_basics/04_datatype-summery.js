@@ -30,3 +30,9 @@ const myfunction =function(){
 }
 
 console.log(typeof phoneno)
+
+
+
+//+++++++++++++++++++++++++++++++++++++++++++++
+
+// Stack (primitive)-->copy  & Heap (non-primitive)-->reference
